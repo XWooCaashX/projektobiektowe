@@ -23,7 +23,7 @@ Aplikacja "Kalendarz Wydarzeń" to program desktopowy napisany w języku Java z 
 
 ## Diagram klas UML
 
-![Diagram klas UML](DiagramUML.jpg)
+![Diagram klas UML](https://github.com/XWooCaashX/projektobiektowe/blob/main/DiagramUML.png)
 
 ## Instrukcja dla użytkownika
 
