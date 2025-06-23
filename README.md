@@ -49,7 +49,10 @@ Aplikacja "Kalendarz Wydarzeń" to program desktopowy napisany w języku Java z 
 ## Ilustracja możliwości programu
 
 -   **Widok główny:** Po lewej stronie znajduje się interaktywny kalendarz, a po prawej lista wydarzeń dla zaznaczonego dnia. Dni z wydarzeniami są podświetlone na niebiesko, dzisiejszy dzień na pomarańczowo, a wybrany na zielono.
+![zdj1](https://github.com/XWooCaashX/projektobiektowe/blob/main/main1.png)
 
 -   **Dodawanie wydarzenia:** W celu dodania nowego spotkania, wybieramy interesujący nas dzień w kalendarzu, a następnie klikamy przycisk `Dodaj Spotkanie`. Pojawi się okno, w którym należy uzupełnić dane.
+![zdj2](https://github.com/XWooCaashX/projektobiektowe/blob/main/main2.png)
 
 -   **Usuwanie wydarzenia:** Aby usunąć wydarzenie, należy je najpierw zaznaczyć na liście po prawej stronie, a następnie kliknąć przycisk `Usuń Zaznaczone`.
+![zdj3](https://github.com/XWooCaashX/projektobiektowe/blob/main/main3.png)
